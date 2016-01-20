@@ -4,7 +4,7 @@
 1. add the vimrc content to your .vimrc file
 2. put your cursor on the function name , press F3 to generate the roxygen template
 
-following is a example:
+following is an example:
 
 ```
 #’ title
